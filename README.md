@@ -36,6 +36,7 @@ Feel free to contribute or fork this project, just don't forget to quote me.
 - Transtation to all languages
 - Execute application with sudo without terminal needs (sudo login by c++ code, not by shortcut.desktop)
 
+----------------
 Best regards
 
 Juliano C. Gomes
