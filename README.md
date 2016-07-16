@@ -1,5 +1,5 @@
-Download .deb: 
-Download portable version:
+- Download .deb: 
+- Download portable version:
 
 # General information
 This application helps to install themes and icons on Linux.
@@ -24,8 +24,8 @@ Extract this file as sudo in user root directory "/"
 
 Example: 
 
-1) Open a terminal in the same folder as "theme-installer-portable.tar.gz" file downloaded
-2) type: sudo tar -zxvf theme-installer-portable.tar.gz -C /
+- Open a terminal in the same folder as "theme-installer-portable.tar.gz" file downloaded
+- Type: sudo tar -zxvf theme-installer-portable.tar.gz -C /
 
 Now, check your menu, it must be there
 
