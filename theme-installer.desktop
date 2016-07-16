@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1
+Name=Theme installer        
+Comment=Install theme and icons on Linux
+Exec=sudo gnome-terminal -e /home/juliano/Dropbox/Linux/Projetos/theme-installer/release/theme-installer
+Icon=gnome-settings-theme
+Terminal=true
+Type=Application
+Categories=Application;
+Name=theme-installer
