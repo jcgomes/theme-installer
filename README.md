@@ -5,15 +5,15 @@ The file must be in ".tgz" or ".tar.gz" format, ready to be extracted in the fol
 
 An example the basic internal structure of .tar.gz file to the icon theme:
 - IconFolderName	[folder]
-	+ actions 		[folder]
-	+ apps 			[folder]
+	+ actions 	[folder]
+	+ apps 		[folder]
 	+ categories 	[folder]
-	+ devices 		[folder]
-	+ emblems 		[folder]
-	+ emotes 		[folder]
+	+ devices 	[folder]
+	+ emblems 	[folder]
+	+ emotes 	[folder]
 	+ mimetypes 	[folder]
-	+ places 		[folder]
-	+ status 		[folder]
-	index.theme 	[file  ]
+	+ places 	[folder]
+	+ status 	[folder]
+	+ index.theme 	[file  ]
 
 
