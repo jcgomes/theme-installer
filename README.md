@@ -1,3 +1,13 @@
+![Open Theme Installer by Menu](https://github.com/jcgomes/theme-installer/blob/master/screenshots/01.jpg)
+
+![Type sudo password](https://github.com/jcgomes/theme-installer/blob/master/screenshots/02.jpg)
+
+![Theme installer main screen](https://github.com/jcgomes/theme-installer/blob/master/screenshots/03-a.jpg)
+
+![Finding a theme or icon file to install](https://github.com/jcgomes/theme-installer/blob/master/screenshots/04.jpg)
+
+![All done](https://github.com/jcgomes/theme-installer/blob/master/screenshots/05.jpg)
+
 - Download .deb: https://github.com/jcgomes/theme-installer/blob/master/release/theme-installer-all.deb?raw=true
 - Download portable version:https://github.com/jcgomes/theme-installer/blob/master/release/theme-installer-portable.tar.gz?raw=true
 
