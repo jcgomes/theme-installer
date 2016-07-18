@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/edit-find.png</file>
+        <file>icons/preferences-color.png</file>
+        <file>icons/preferences-color.ico</file>
+    </qresource>
+</RCC>

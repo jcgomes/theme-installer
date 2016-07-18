@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>280</width>
+    <width>245</width>
     <height>82</height>
    </rect>
   </property>
@@ -14,8 +14,8 @@
    <string>Theme installer</string>
   </property>
   <property name="windowIcon">
-   <iconset>
-    <normaloff>../release/cs-color.png</normaloff>../release/cs-color.png</iconset>
+   <iconset resource="resources.qrc">
+    <normaloff>:/icons/preferences-color.png</normaloff>:/icons/preferences-color.png</iconset>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout_4">
@@ -48,7 +48,7 @@
          <item>
           <widget class="QLabel" name="lbChoose">
            <property name="text">
-            <string>Choose what do you want to install</string>
+            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Choose what do you want to install&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
            </property>
           </widget>
          </item>
@@ -71,7 +71,11 @@
            <item>
             <widget class="QPushButton" name="pbInstall">
              <property name="text">
-              <string>Find and install the package</string>
+              <string>Search and install </string>
+             </property>
+             <property name="icon">
+              <iconset resource="resources.qrc">
+               <normaloff>:/icons/edit-find.png</normaloff>:/icons/edit-find.png</iconset>
              </property>
             </widget>
            </item>
@@ -86,6 +90,8 @@
   </widget>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
- <resources/>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
  <connections/>
 </ui>
