@@ -22,7 +22,7 @@ void MainWindow::on_pbInstall_clicked()
 
     QMessageBox msgBox;
     if (index==0) {
-        QString file = QFileDialog::getOpenFileName(this, tr("Select an file"),"/home", tr("*.tar.gz | *.tgz (*.tar.gz *.tgz)"));
+        QString file = QFileDialog::getOpenFileName(this, tr("Select a file"),"/home", tr("*.tar.gz | *.tgz (*.tar.gz *.tgz)"));
 
         if (file != ""){
             std::string str = "tar -zxvf " + file.toStdString() + " -C /usr/share/icons/";
