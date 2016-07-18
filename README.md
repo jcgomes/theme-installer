@@ -1,5 +1,5 @@
-- Download .deb: https://github.com/jcgomes/theme-installer/blob/master/release/theme-installer-all.deb?raw=true
-- Download portable version:https://github.com/jcgomes/theme-installer/blob/master/release/theme-installer-portable.tar.gz?raw=true
+- Download .deb: https://github.com/jcgomes/theme-installer/blob/master/release/theme-installer-v0.2-all.deb?raw=true
+- Download portable version: https://github.com/jcgomes/theme-installer/blob/master/release/theme-installer-v0.2-portable.tar.gz?raw=true
 
 # General information
 This application helps to install themes and icons on Linux.
